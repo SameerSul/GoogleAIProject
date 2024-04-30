@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "sveltekit-boilerplate",
+			"path": "../sveltekit-boilerplate"
+		}
+	],
+	"settings": {}
+}
